@@ -1,0 +1,4 @@
+com/example/frontend/FrontendApplication.class
+com/example/frontend/GuestbookMessage.class
+com/example/frontend/GuestbookMessagesClient.class
+com/example/frontend/FrontendController.class
